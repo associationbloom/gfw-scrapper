@@ -1,4 +1,4 @@
-# Le BABA de la programmation
+# Le B.A.-BA de la programmation
 
 ## Généralités
 
